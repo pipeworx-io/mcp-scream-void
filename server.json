@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/scream-void",
-  "title": "scream void",
-  "description": "scream-void MCP — wraps StupidAPIs (requires X-API-Key)",
-  "version": "0.1.0",
+  "title": "Scream Void",
+  "description": "scream-void MCP — wraps StupidAPIs (keyless — no credential needed)",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/scream-void",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-scream-void",
