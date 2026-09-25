@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-scream-void",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "scream-void MCP — wraps StupidAPIs (keyless — no credential needed)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-02332336d35773fc5fd47a86f4c5f108fdb9c951757e9384d7735a6aa31e648f",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }
